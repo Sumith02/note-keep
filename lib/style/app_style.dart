@@ -4,7 +4,7 @@ import 'package:google_fonts/google_fonts.dart';
 class AppStyle{
   static Color mainColor =Color.fromARGB(15, 15, 69, 134);
   static Color accentColor =Color(0xFF0065FFF);
- static Color bgColor =Color(0xFFe2e2FF);
+ static Color bgColor =Color.fromARGB(255, 8, 8, 120);
 
 
   static List<Color> cardsColor=[
